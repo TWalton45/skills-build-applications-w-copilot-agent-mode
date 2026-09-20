@@ -1,5 +1,5 @@
 ---
-mode: 'agent'
+agent: 'agent'
 model: GPT-5.5
 description: 'Create the Node.js logic tier for the Octofit multi-tier application'
 ---
@@ -15,6 +15,7 @@ Requirements:
    - `/api/users/`
    - `/api/teams/`
    - `/api/activities/`
+   
    - `/api/leaderboard/`
    - `/api/workouts/`
 5. Keep server port on `8000`.
