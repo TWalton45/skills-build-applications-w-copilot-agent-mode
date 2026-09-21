@@ -7,7 +7,6 @@ description: 'Configure MongoDB and seed octofit_db for the Octofit multi-tier a
 Set up and populate the data tier for `octofit-tracker/backend`.
 
 Requirements:
-
 1. Use MongoDB with Mongoose.
 2. Use connection string for local MongoDB on port `27017` and database `octofit_db`.
 3. Create Mongoose models for users, teams, activities, leaderboard, and workouts.
