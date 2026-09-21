@@ -7,6 +7,7 @@ description: 'Create the Node.js logic tier for the Octofit multi-tier applicati
 Create the logic tier in `octofit-tracker/backend` for the Octofit Tracker multi-tier application.
 
 Requirements:
+
 1. Do not change directories; use path-qualified commands.
 2. Initialize a TypeScript Node.js API with Express.
 3. Configure scripts for build/dev/start.

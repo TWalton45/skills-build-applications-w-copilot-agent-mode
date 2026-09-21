@@ -6,7 +6,6 @@ applyTo: "**"
 ## Application goals
 
 Build an Octofit Tracker **multi-tier application** with:
-
 - User authentication and profiles
 - Activity logging and tracking
 - Team creation and management
